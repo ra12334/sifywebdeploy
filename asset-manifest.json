@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sifywebdeploy/static/css/main.a617e044.chunk.css",
+    "main.js": "/sifywebdeploy/static/js/main.55f07638.chunk.js",
+    "main.js.map": "/sifywebdeploy/static/js/main.55f07638.chunk.js.map",
+    "runtime-main.js": "/sifywebdeploy/static/js/runtime-main.5b619424.js",
+    "runtime-main.js.map": "/sifywebdeploy/static/js/runtime-main.5b619424.js.map",
+    "static/js/2.0dc137c4.chunk.js": "/sifywebdeploy/static/js/2.0dc137c4.chunk.js",
+    "static/js/2.0dc137c4.chunk.js.map": "/sifywebdeploy/static/js/2.0dc137c4.chunk.js.map",
+    "static/js/3.bc03d4b0.chunk.js": "/sifywebdeploy/static/js/3.bc03d4b0.chunk.js",
+    "static/js/3.bc03d4b0.chunk.js.map": "/sifywebdeploy/static/js/3.bc03d4b0.chunk.js.map",
+    "index.html": "/sifywebdeploy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sifywebdeploy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0dc137c4.chunk.js.LICENSE.txt": "/sifywebdeploy/static/js/2.0dc137c4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sifywebdeploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b619424.js",
+    "static/js/2.0dc137c4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.55f07638.chunk.js"
+  ]
+}
